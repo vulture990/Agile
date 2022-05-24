@@ -7,7 +7,7 @@ const Profile = () => {
             <div className="container">
                 <div className="row justify-content-md-center">
                     <div className="col">
-                        <h1>Hello, Profile</h1>
+                        <h1>Hello, This is you Ensias Profile</h1>
                     </div>
                 </div>
             </div>

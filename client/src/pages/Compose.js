@@ -36,13 +36,7 @@ const Compose = () => {
         //console.log(data)
     }
 
-    // const postDetails = async () => {
-    //     const data = new FormData();
-    //     data.append('file', blogPost.content);
-    //     data.append('upload_preset', 'blogstar');
-    //     data.append('cloud_name', 'jakaria');
-    //     await Axios.post('https://api.cloudinary.com/v1_1/jakaria/image/upload', JSON.stringify(data))
-    // }
+   
 
     const handleClick = async (event) => {
         event.preventDefault();

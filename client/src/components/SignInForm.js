@@ -78,7 +78,7 @@ const SignInForm = () => {
                         onClick={handleSignInClick}
                         className="btn btn-block btn-lg btn-success mt-5"> Sign In </Button>
                 </form>
-                <p className="mt-2">New to Blogstar? <Link to="/signup">Create an account</Link> </p>
+                <p className="mt-2">New to Ensias Social Blog? <Link to="/signup">Create an account</Link> </p>
             </div>
         </div>
         
